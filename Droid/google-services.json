@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "999999999999",
-    "firebase_url": "https://xamarinfcm-9fafe.firebaseio.com",
-    "project_id": "xamarinfcm-9fafe",
-    "storage_bucket": "xamarinfcm-9fafe.appspot.com"
+    "project_number": "543786272299",
+    "firebase_url": "https://sound-datum-228501.firebaseio.com",
+    "project_id": "sound-datum-228501",
+    "storage_bucket": "sound-datum-228501.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:99999999999:android:0000000000000000",
+        "mobilesdk_app_id": "1:543786272299:android:d263f26f368a2f84",
         "android_client_info": {
-          "package_name": "com.xamarin.fcmexample"
+          "package_name": "com.dadivos.demo.TodoAzure"
         }
       },
       "oauth_client": [
         {
-          "client_id": "YOU MUST USE YOUR OWN GOOGLE SERVICES.JSON!",
+          "client_id": "543786272299-5qvot80amv3q3osjoc78opedf8n08c9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dadivos.demo.TodoAzure",
+            "certificate_hash": "e0ab673a9a87d67a22f2f5b24fe254a18a5976f6"
+          }
+        },
+        {
+          "client_id": "543786272299-oiokq1v8bes9809lb4n1c80ekvipvs58.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "YOU MUST USE YOUR OWN GOOGLE SERVICES.JSON!"
+          "current_key": "AIzaSyDpThvaO9Jc4v9DObomoCMPl2QUxako5ec"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543786272299-oiokq1v8bes9809lb4n1c80ekvipvs58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
